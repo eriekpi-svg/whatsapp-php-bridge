@@ -7,7 +7,7 @@ const VERIFY_TOKEN = 'MySecretCRMToken2025';
 // API Secret Key untuk otorisasi POST ke Hostinger
 const API_SECRET_KEY = 'Bintang_API_2025_KEY_RAHASIA';
 // Hostinger Endpoint (Sudah di-update untuk Firewall Bypass)
-const HOSTINGER_ENDPOINT = 'https://bintangcartravel.com/media/wa_receiver.php'; 
+const HOSTINGER_ENDPOINT = 'https://bintangcartravel.com/media/whatsapp_receiver.php'; 
 
 
 exports.handler = async (event, context) => {
