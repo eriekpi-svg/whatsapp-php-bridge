@@ -1,7 +1,7 @@
 // Minimal Serverless Function for Netlify (JavaScript)
 
 // --- KONSTANTA ---
-const HOSTINGER_ENDPOINT = 'https://bintangcartravel.com/whatsapp_handler/process_message.php'; 
+const HOSTINGER_ENDPOINT = 'https://bintangcartravel.com/media/wa_receiver.php';'; 
 const API_SECRET_KEY = 'Bintang_API_2025_KEY_RAHASIA'; // HARUS SAMA dengan di Hostinger!
 const VERIFY_TOKEN = 'MySecretCRMToken2025'; // HARUS SAMA dengan di Meta!
 
