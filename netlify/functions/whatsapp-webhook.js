@@ -4,7 +4,7 @@ const fetch = require('node-fetch');
 // --- KONSTANTA UTAMA ---
 // Token untuk Verifikasi di Meta Console
 const VERIFY_TOKEN = 'MySecretCRMToken2025'; 
-// API Secret Key untuk otorisasi POST ke Hostinger (HARUS SAMA dengan di wa_receiver.php)
+// API Secret Key untuk otorisasi POST ke Hostinger
 const API_SECRET_KEY = 'Bintang_API_2025_KEY_RAHASIA';
 // Hostinger Endpoint (Sudah di-update untuk Firewall Bypass)
 const HOSTINGER_ENDPOINT = 'https://bintangcartravel.com/media/wa_receiver.php'; 
